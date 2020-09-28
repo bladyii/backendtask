@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparseArrays", "SparseArrays.csproj", "{22CCE050-D004-4771-9DB5-E56BCF752067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparseArraysLib", "..\SparseArraysLib\SparseArraysLib.csproj", "{F7FD7199-E3BD-4426-9DBA-0188E6A95696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22CCE050-D004-4771-9DB5-E56BCF752067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CCE050-D004-4771-9DB5-E56BCF752067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CCE050-D004-4771-9DB5-E56BCF752067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CCE050-D004-4771-9DB5-E56BCF752067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FD7199-E3BD-4426-9DBA-0188E6A95696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FD7199-E3BD-4426-9DBA-0188E6A95696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FD7199-E3BD-4426-9DBA-0188E6A95696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FD7199-E3BD-4426-9DBA-0188E6A95696}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FB1728C-7CBB-449B-B44F-236189C41ADC}
+	EndGlobalSection
+EndGlobal
